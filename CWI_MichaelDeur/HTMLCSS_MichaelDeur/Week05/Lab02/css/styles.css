@@ -1,0 +1,26 @@
+/*Michael Deur 
+September 21, 2023*/
+
+header, footer {
+    background-color: lightblue;
+}
+
+p, ul, li {
+    font-size: 20px;
+}
+
+.fLinkRelated:link {
+    color: navy;
+}
+
+.fLinkRelated:visited {
+    color: burlywood;
+}
+
+.fLinkRelated:hover {
+    color: cadetblue;
+}
+
+.fLinkRelated:active {
+    color: blueviolet;
+}
