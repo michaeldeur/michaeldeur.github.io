@@ -1,0 +1,98 @@
+@charset "utf-8";
+
+body {
+ background: #fb8500; 
+}	
+
+.tableStyle {
+  border: 9px solid #ffb703;
+  background-color: #8ecae6;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  text-align: left;
+  font-size: 20px;
+}
+
+
+caption {
+  color: #FFFFFF;
+  font-size: 30px;
+}
+thead {
+	background-color: #219ebc;
+}
+
+tr:nth-child(even) {
+  background: #D0E4F5;
+}
+
+tfoot {
+	text-align: center;
+  color: #FFFFFF;
+	background-color: #023047;
+}
+
+.country:link {
+  color:#023047;
+}
+
+.country:visited {
+  color:#139bdf;
+}
+
+.country:hover {
+  color:#0f232d;
+}
+
+.country:active {
+  color:#1b455a;
+}
+
+.heavyMetal:link {
+  color:#774711;
+}
+
+.heavyMetal:visited {
+  color:#ea8613;
+}
+
+.heavyMetal:hover {
+  color:#c48640;
+}
+
+.heavyMetal:active {
+  color:#a15907;
+}
+
+.pop:link {
+  color:#78c3d5;
+}
+
+.pop:visited {
+  color:#1b6779;
+}
+
+.pop:hover {
+  color:#63cde8;
+}
+
+.pop:active {
+  color:#0fb9e3;
+}
+
+.rock:link {
+  color: rgb(233, 144, 27);
+}
+
+.rock:visited {
+  color: rgb(84, 53, 13);
+}
+
+.rock:hover {
+  color: rgb(164, 54, 164);
+}
+
+.rock:active {
+  color: rgb(230, 91, 211);
+}
