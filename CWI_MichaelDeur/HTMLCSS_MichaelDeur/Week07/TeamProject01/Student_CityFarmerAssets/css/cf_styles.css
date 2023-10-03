@@ -1,0 +1,58 @@
+/*Michael Zebedee Deur -- October 03, 2023*/
+
+body {
+	background-color:  #B8D1EB;
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    background-color: tan;
+    padding-bottom: 15px;
+}
+
+.nav-ul li {
+	list-style-type: none;
+}
+
+h1 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 18pt;
+}
+
+h2 {
+	font-family: Verdana, Tahoma, sans-serif;
+	font-weight: normal;
+	font-style: italic;
+}
+
+main ul li {
+	list-style-image: url(../images/tomato.png);
+}
+
+footer {
+    margin-top: -16px;
+    padding-top: 20px;
+	font-size: 0.75em;
+	text-align: center;
+	background-color: rgb(174, 117, 44);
+}
+#outerwrapper {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+} 
+
+.floatleft { 
+	float: left;
+	margin-right: 3%;
+}
+
+.floatright {
+	float: right;
+	margin-left: 3%;
+}
+
+main, footer { 
+clear: both;
+}
