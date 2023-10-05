@@ -1,0 +1,85 @@
+/*Michael Zebedee Deur -- October 03, 2023*/
+body {
+    width: 100vw;
+    position: absolute;
+}
+.logo {
+    height: 7rem;
+    width: auto;
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+header {
+    width: 100vw;
+    background-image: linear-gradient(to top, rgba(108, 108, 108, .8), white);
+    box-shadow:0px 15px 35px black;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+
+    /*border-radius: 0px 0px 30px 30px;*/
+}
+
+.h1-outerwrapper {
+    position: relative; 
+}
+
+h1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    text-align: center;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #005587;
+    text-shadow: 1px 1px black;
+}
+
+.header-nav-ul-li {
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.main-section {
+    padding-top: 12rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.main-section-h2-wrapper h2 {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.main-section-p-wrapper p {
+    font-size: x-large;
+    font-weight: 500;
+    text-shadow: 1px 1px whitesmoke;
+}
+
+main {
+   
+}
+
+.headermain-wrapper {
+    height: 100vh;
+    background-image: url("../images/backgroundImg.jpg");
+    background-repeat: no-repeat;
+    background-size: auto 100vh;
+    background-position: center;
+    background-position: sticky;
+}
+
+footer {
+    background-color: black;
+}
