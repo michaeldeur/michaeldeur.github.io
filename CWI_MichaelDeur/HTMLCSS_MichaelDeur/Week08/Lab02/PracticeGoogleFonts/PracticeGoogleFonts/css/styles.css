@@ -1,0 +1,9 @@
+ /* Practice CustomFonts Style Sheet */
+ @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Major+Mono+Display&display=swap');
+ .websafe{
+    font-family: 'Major Mono Display', monospace;
+}
+
+.google {
+    font-family: 'Dosis', Georgia, serif;
+}
