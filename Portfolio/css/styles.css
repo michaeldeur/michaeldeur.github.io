@@ -473,7 +473,7 @@ footer div {
 
     nav ul {
         display: grid;
-        grid-template-columns: 22% 4% 22% 4% 22% 4% 22%;
+        grid-template-columns: 22% 4% 22% 4% 22% 4% 22% !important;
     }
     
     /*Main Styles*/
