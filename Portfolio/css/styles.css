@@ -343,6 +343,7 @@ footer p {
         z-index: 0;
         padding-top: 5px;
         width: 100vw;
+        height: 50px;
     }
 
     header nav ul {
@@ -435,7 +436,8 @@ footer p {
 
 @media only screen and (min-width: 751px) {
     /*Header Styles*/
-    
+    /*Top Row Styles*/
+
     header {
         height: 170px;
     }
@@ -445,14 +447,13 @@ footer p {
         font-size: 50px;
     }
 
+    /*Header Styles*/
+    /*Top Row Styles*/
+
     nav ul li a {
         font-size: 25px;
         padding-top: 0px;
         border-bottom: 0px;           
-    }
-
-    header nav ul li a {
-        font-size: 25px;
     }
 
     /*Main Styles*/
