@@ -487,6 +487,7 @@ footer p {
 
     textarea {
         width: 520px;
+	height: 520px;
     }
 
     input:focus, select:focus, textarea:focus {
