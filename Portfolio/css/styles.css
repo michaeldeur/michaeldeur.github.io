@@ -111,9 +111,7 @@ li {
 }
 
 header nav ul li:nth-child(odd) {
-    opacity: 1;
     transition:margin-left 8s ease-in 4.5s;
-    pointer-events: initial;
     margin-left: -1000px;
 }
 
@@ -123,9 +121,7 @@ header nav ul li:nth-child(even) {
 
 header nav .hamGroup:active + ul li:nth-child(odd) { 
     margin-left: 0px;
-    opacity: 1;
-	pointer-events: initial;
-  	cursor: pointer !important;
+    cursor: pointer !important;
     transition:margin-left 0s ease-in 0s;
 }
 
