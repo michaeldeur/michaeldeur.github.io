@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #495057;
+        }
+
+        header {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 50px 0;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        nav a {
+            color: #343a40;
+            text-decoration: none;
+            margin: 0 20px;
+            font-size: 1.2em;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: #ffc107;
+        }
+
+        section {
+            padding: 50px 20px;
+        }
+
+        h2 {
+            color: #343a40;
+        }
+
+        p {
+            text-align: justify;
+            font-size: 1.1em;
+        }
+
+        .project-card {
+            border: 1px solid #ced4da;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 30px;
+            transition: box-shadow 0.3s ease;
+        }
+
+        .project-card:hover {
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .project-card h3 {
+            color: #343a40;
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+
+        .project-card p {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+
+        .project-card img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        .project-card a {
+            display: inline-block;
+            background-color: #343a40;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .project-card a:hover {
+            background-color: #ffc107;
+        }
+
+        footer {
+            background-color: #343a40;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Cody Smith</h1>
+        <p>Business Student &amp; Photography Enthusiast</p>
+        <!-- Navigation Links -->
+        <nav>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <p class="lead">Hi, I'm Cody Smith, a passionate business student with a keen interest in photography. I believe that the combination of business acumen and creative expression through photography can create powerful narratives. I strive to capture moments that tell compelling stories and evoke emotions.</p>
+            <!-- Professional Photo (Optional) -->
+            <img src="generic-photo.jpg" alt="Cody Smith" class="img-fluid rounded-circle mt-4">
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="bg-light">
+        <div class="container">
+            <h2>Skills</h2>
+            <!-- List of Skills with Icons or Progress Bars -->
+            <ul class="list-inline">
+                <li class="list-inline-item">Business Strategy</li>
+                <li class="list-inline-item">Photography</li>
+                <li class="list-inline-item">Marketing</li>
+                <!-- Add more skills -->
+            </ul>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="container">
+            <h2>Projects</h2>
+            <!-- Project Cards with Descriptions, Images, and Links -->
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="project-card">
+                        <h3>Photography Portfolio</h3>
+                        <p>Showcasing my photography journey and capturing moments that tell compelling stories. Feel free to explore my diverse portfolio of images that reflect my unique perspective and storytelling approach.</p>
+                        <img src="generic-portfolio.jpg" alt="Photography Portfolio" class="img-fluid">
+                        <a href="#" class="btn btn-primary mt-3">View Portfolio</a>
+                    </div>
+                </div>
+                <!-- Add more project cards -->
+                <div class="col-md-6">
+                    <div class="project-card">
+                        <h3>Business Strategy Project</h3>
+                        <p>As a business student, I've worked on projects that involve strategic planning and execution. One such project focused on developing innovative business strategies to address contemporary challenges in the industry.</p>
+                        <img src="generic-business.jpg" alt="Business Strategy Project" class="img-fluid">
+                        <a href="#" class="btn btn-primary mt-3">Learn More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="bg-light">
+        <div class="container">
+            <h2>Contact</h2>
+            <!-- Contact Form or Links to Social Media -->
+            <!-- <form>
+                Your Contact Form Goes Here
+            </form> -->
+            <p>Email: cody.smith@email.com</p>
+            <p>Phone: (123) 456-7890</p>
+            <!-- Social Media Icons -->
+            <!-- <div class="social-icons">
+                Your Social Media Icons Go Here
+            </div> -->
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 Cody Smith. All Rights Reserved.</p>
+    </footer>
+
+    <!-- Bootstrap JS and Popper.js -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2
