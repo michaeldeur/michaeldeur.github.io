@@ -1,0 +1,6 @@
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\bin\Debug\DemoParse.exe.config
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\bin\Debug\DemoParse.exe
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\bin\Debug\DemoParse.pdb
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\obj\Debug\DemoParse.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\obj\Debug\DemoParse.exe
+C:\Users\User\Documents\2016 Fall SWDV105 Intro & SWDV115 Intermediate\Chapter 2\DemoParse\DemoParse\obj\Debug\DemoParse.pdb

@@ -1,0 +1,19 @@
+C:\Users\User\Documents\2017 Spring SWDV105 & SWDV110\Chapter 2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe.config
+C:\Users\User\Documents\2017 Spring SWDV105 & SWDV110\Chapter 2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\User\Documents\2017 Spring SWDV105 & SWDV110\Chapter 2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.pdb
+C:\Users\User\Documents\2017 Spring SWDV105 & SWDV110\Chapter 2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\User\Documents\2017 Spring SWDV105 & SWDV110\Chapter 2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.pdb
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe.config
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.pdb
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\Admin\Documents\SWDV105\Chapter02\BlackBoard_Day2\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe.config
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\bin\Debug\DemoEscapeSequencesPage74.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week01\DemoEscapeSequencesPage74(2)(1)\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\DemoEscapeSequencesPage74\obj\Debug\DemoEscapeSequencesPage74.pdb
