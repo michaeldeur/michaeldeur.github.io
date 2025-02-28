@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\bin\Debug\net6.0\TestScoreList.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\bin\Debug\net6.0\TestScoreList.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\bin\Debug\net6.0\TestScoreList.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\bin\Debug\net6.0\TestScoreList.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\bin\Debug\net6.0\TestScoreList.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\refint\TestScoreList.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\TestScoreList.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab03\TestScoreList\TestScoreList\obj\Debug\net6.0\ref\TestScoreList.dll
