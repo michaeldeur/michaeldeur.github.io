@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\refint\PaintingEstimate.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab02\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\ref\PaintingEstimate.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\bin\Debug\net6.0\SalesLetter.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\bin\Debug\net6.0\SalesLetter.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\bin\Debug\net6.0\SalesLetter.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\bin\Debug\net6.0\SalesLetter.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\bin\Debug\net6.0\SalesLetter.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\refint\SalesLetter.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\SalesLetter.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week07\Lab01\SalesLetter\SalesLetter\obj\Debug\net6.0\ref\SalesLetter.dll
