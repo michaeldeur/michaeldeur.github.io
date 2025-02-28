@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\bin\Debug\net6.0\ArrayDemo2.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\refint\ArrayDemo2.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ArrayDemo2.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ArrayDemo2\ArrayDemo2\obj\Debug\net6.0\ref\ArrayDemo2.dll

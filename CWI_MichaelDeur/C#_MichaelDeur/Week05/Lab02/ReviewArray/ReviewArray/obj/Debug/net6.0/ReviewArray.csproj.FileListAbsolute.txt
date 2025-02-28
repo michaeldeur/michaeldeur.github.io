@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\bin\Debug\net6.0\ReviewArray.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\bin\Debug\net6.0\ReviewArray.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\bin\Debug\net6.0\ReviewArray.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\bin\Debug\net6.0\ReviewArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\bin\Debug\net6.0\ReviewArray.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\refint\ReviewArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ReviewArray.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week05\Lab02\ReviewArray\ReviewArray\obj\Debug\net6.0\ref\ReviewArray.dll
