@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\bin\Debug\net6.0\DailyTemp.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\bin\Debug\net6.0\DailyTemp.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\bin\Debug\net6.0\DailyTemp.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\bin\Debug\net6.0\DailyTemp.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\bin\Debug\net6.0\DailyTemp.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\refint\DailyTemp.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\DailyTemp.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week04\Lab01\DailyTemp\DailyTemp\obj\Debug\net6.0\ref\DailyTemp.dll
