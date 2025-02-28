@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\bin\Debug\net6.0\MultiplyIntsInArray.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\bin\Debug\net6.0\MultiplyIntsInArray.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\bin\Debug\net6.0\MultiplyIntsInArray.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\bin\Debug\net6.0\MultiplyIntsInArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\bin\Debug\net6.0\MultiplyIntsInArray.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\refint\MultiplyIntsInArray.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\MultiplyIntsInArray.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\Test01\MultiplyIntsInArray\MultiplyIntsInArray\obj\Debug\net6.0\ref\MultiplyIntsInArray.dll

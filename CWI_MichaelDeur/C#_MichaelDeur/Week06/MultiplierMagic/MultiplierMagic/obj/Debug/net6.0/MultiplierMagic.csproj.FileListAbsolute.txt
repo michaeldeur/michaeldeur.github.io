@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\bin\Debug\net6.0\MultiplierMagic.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\bin\Debug\net6.0\MultiplierMagic.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\bin\Debug\net6.0\MultiplierMagic.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\bin\Debug\net6.0\MultiplierMagic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\bin\Debug\net6.0\MultiplierMagic.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\refint\MultiplierMagic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\MultiplierMagic.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\MultiplierMagic\MultiplierMagic\obj\Debug\net6.0\ref\MultiplierMagic.dll
