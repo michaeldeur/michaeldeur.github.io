@@ -1,0 +1,13 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.runtimeconfig.dev.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\bin\Debug\netcoreapp3.1\DebugFour2.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\DebugFour2\DebugFour2\DebugFour2\obj\Debug\netcoreapp3.1\DebugFour2.genruntimeconfig.cache
