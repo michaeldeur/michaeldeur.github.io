@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\bin\Debug\net6.0\TriangleLogic.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\bin\Debug\net6.0\TriangleLogic.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\bin\Debug\net6.0\TriangleLogic.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\bin\Debug\net6.0\TriangleLogic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\bin\Debug\net6.0\TriangleLogic.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\refint\TriangleLogic.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\TriangleLogic.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\TriangleLogic\TriangleLogic\obj\Debug\net6.0\ref\TriangleLogic.dll
