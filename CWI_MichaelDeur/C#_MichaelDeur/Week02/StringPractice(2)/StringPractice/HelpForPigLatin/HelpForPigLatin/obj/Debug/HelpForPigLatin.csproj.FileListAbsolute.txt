@@ -1,0 +1,14 @@
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.exe.config
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.exe
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.pdb
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.csproj.CoreCompileInputs.cache
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.exe
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.pdb
+C:\Users\elowenstein\Documents\Chapter02\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.exe.config
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\bin\Debug\HelpForPigLatin.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\StringPractice(2)\StringPractice\HelpForPigLatin\HelpForPigLatin\obj\Debug\HelpForPigLatin.pdb

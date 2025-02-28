@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\bin\Debug\net6.0\Planets.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\bin\Debug\net6.0\Planets.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\bin\Debug\net6.0\Planets.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\bin\Debug\net6.0\Planets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\bin\Debug\net6.0\Planets.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\refint\Planets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\Planets.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\Lab02\Planets\Planets\obj\Debug\net6.0\ref\Planets.dll
