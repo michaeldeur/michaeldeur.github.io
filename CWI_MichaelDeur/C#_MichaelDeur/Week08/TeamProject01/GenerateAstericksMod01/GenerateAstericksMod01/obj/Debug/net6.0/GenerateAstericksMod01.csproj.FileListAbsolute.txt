@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\bin\Debug\net6.0\GenerateAstericksMod01.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\bin\Debug\net6.0\GenerateAstericksMod01.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\bin\Debug\net6.0\GenerateAstericksMod01.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\bin\Debug\net6.0\GenerateAstericksMod01.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\bin\Debug\net6.0\GenerateAstericksMod01.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\refint\GenerateAstericksMod01.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\GenerateAstericksMod01.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week08\TeamProject01\GenerateAstericksMod01\GenerateAstericksMod01\obj\Debug\net6.0\ref\GenerateAstericksMod01.dll
