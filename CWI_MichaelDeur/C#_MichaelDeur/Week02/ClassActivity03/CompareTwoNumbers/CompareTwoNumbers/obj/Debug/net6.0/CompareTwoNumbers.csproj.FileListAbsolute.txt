@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\net6.0\CompareTwoNumbers.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\net6.0\CompareTwoNumbers.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\net6.0\CompareTwoNumbers.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\net6.0\CompareTwoNumbers.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\net6.0\CompareTwoNumbers.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\refint\CompareTwoNumbers.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\CompareTwoNumbers.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity03\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\net6.0\ref\CompareTwoNumbers.dll

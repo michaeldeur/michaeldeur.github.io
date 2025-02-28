@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\bin\Debug\net6.0\MonthNames.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\bin\Debug\net6.0\MonthNames.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\bin\Debug\net6.0\MonthNames.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\bin\Debug\net6.0\MonthNames.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\bin\Debug\net6.0\MonthNames.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\refint\MonthNames.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\MonthNames.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week02\ClassActivity02\MonthNames\MonthNames\obj\Debug\net6.0\ref\MonthNames.dll
