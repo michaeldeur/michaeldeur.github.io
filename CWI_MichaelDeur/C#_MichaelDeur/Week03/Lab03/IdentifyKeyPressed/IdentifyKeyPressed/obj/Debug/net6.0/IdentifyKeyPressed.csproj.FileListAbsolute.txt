@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\bin\Debug\net6.0\IdentifyKeyPressed.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\bin\Debug\net6.0\IdentifyKeyPressed.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\bin\Debug\net6.0\IdentifyKeyPressed.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\bin\Debug\net6.0\IdentifyKeyPressed.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\bin\Debug\net6.0\IdentifyKeyPressed.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\refint\IdentifyKeyPressed.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\IdentifyKeyPressed.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab03\IdentifyKeyPressed\IdentifyKeyPressed\obj\Debug\net6.0\ref\IdentifyKeyPressed.dll

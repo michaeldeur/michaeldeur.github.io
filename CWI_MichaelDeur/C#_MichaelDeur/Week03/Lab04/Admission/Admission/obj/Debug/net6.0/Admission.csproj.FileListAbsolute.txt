@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\bin\Debug\net6.0\Admission.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\bin\Debug\net6.0\Admission.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\bin\Debug\net6.0\Admission.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\bin\Debug\net6.0\Admission.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\bin\Debug\net6.0\Admission.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\refint\Admission.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\Admission.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\Lab04\Admission\Admission\obj\Debug\net6.0\ref\Admission.dll
