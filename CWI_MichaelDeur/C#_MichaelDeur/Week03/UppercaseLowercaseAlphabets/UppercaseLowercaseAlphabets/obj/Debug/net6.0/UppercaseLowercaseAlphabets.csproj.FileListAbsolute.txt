@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\bin\Debug\net6.0\UppercaseLowercaseAlphabets.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\bin\Debug\net6.0\UppercaseLowercaseAlphabets.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\bin\Debug\net6.0\UppercaseLowercaseAlphabets.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\bin\Debug\net6.0\UppercaseLowercaseAlphabets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\bin\Debug\net6.0\UppercaseLowercaseAlphabets.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\refint\UppercaseLowercaseAlphabets.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\UppercaseLowercaseAlphabets.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week03\TeamActivity01\UppercaseLowercaseAlphabets\UppercaseLowercaseAlphabets\obj\Debug\net6.0\ref\UppercaseLowercaseAlphabets.dll
