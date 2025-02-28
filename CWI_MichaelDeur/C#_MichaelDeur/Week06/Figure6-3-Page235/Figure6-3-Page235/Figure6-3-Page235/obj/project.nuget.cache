@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AydL8wePKPjuF+qgh2S1pgFKv4tZDnRdAtJM9I9JN7i0kG1a0DdJap13FwiAhaWEmLPjm91WgAChmhSuVuLmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\CWI_MichaelDeur\\C#_MichaelDeur\\Week06\\Figure6-3-Page235\\Figure6-3-Page235\\Figure6-3-Page235\\Figure6-3-Page235.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

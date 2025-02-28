@@ -1,0 +1,14 @@
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\bin\Debug\net6.0\SevenBoom.exe
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\bin\Debug\net6.0\SevenBoom.deps.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\bin\Debug\net6.0\SevenBoom.runtimeconfig.json
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\bin\Debug\net6.0\SevenBoom.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\bin\Debug\net6.0\SevenBoom.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.AssemblyInfo.cs
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\refint\SevenBoom.dll
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.pdb
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\SevenBoom.genruntimeconfig.cache
+C:\Users\User\Documents\CWI_MichaelDeur\C#_MichaelDeur\Week06\TeamProject01\SevenBoom\SevenBoom\obj\Debug\net6.0\ref\SevenBoom.dll
