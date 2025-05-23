@@ -1,4 +1,4 @@
-# Observer Pattern Project
+# Java Observer Pattern Project
 
 ## Overview
 This example demonstrates the **Observer Pattern** in Java using a wilderness setting. The `NightInTheWilderness` class acts as the **subject**, while various observer classes implement the `OnWatch` interface to monitor changes in the encounter state.
