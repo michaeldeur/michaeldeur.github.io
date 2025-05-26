@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Let's Build It!</title>
+    <link rel="icon" href="logo.svg" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="builder.css">
+</head>
+
+<body>
+    <video autoplay loop muted playsinline id="background-video" poster="lightning_preview.jpg">
+        <source src="lightning01.webm" type="video/webm">
+        <source src="lightning01.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+
+    <div class="overlay">
+        <header>
+            <a href="index.html" target="_self"><img class="logo" src="logo.svg"
+                    alt="Thundering Templates LLC Logo"></a>
+            <h1>Thundering Templates LLC</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a class="current-page" href="builder.html">Build It!</a></li>
+                    <li><a href="pricing.html">Pricing</a></li>
+                    <li><a class="current-page" href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+    </div> <!-- The overlay -->
+    <div id="form-container">
+        <div class="question active">
+            <p>Let's Start With Your Full Name...</p>
+            <input type="text" id="name" required>
+            <button class="first cButton" onclick="nextQuestion()">Next</button>
+        </div>
+
+        <div class="question">
+            <p id="greeting"></p>
+            <input type="email" id="email" required>
+            <div class="button-container">
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+        <div class="question">
+            <p>Next, We'll Add Your Education...</p>
+            <div id="education-container">
+                <!-- First education entry -->
+                <div class="education-entry">
+                    <label>Degree:</label>
+                    <input type="text" name="degree" placeholder="e.g. Bachelor of Science">
+
+                    <label>Field of Study:</label>
+                    <input type="text" name="field" placeholder="e.g. Computer Science">
+
+                    <label>School Name:</label>
+                    <input type="text" name="school" placeholder="University Name">
+
+                    <label>Year of Graduation:</label>
+                    <input type="number" name="gradYear" placeholder="e.g. 2025">
+
+                    <button class="cButton removeButton" onclick="removeEducation(this)">Remove</button>
+                </div>
+            </div>
+
+            <div class="button-container">
+                <button class="cButton" onclick="addEducation()">Add Another</button>
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+        <div class="question">
+            <p>Let's Include Some Relevant Skills Too...</p>
+            <div id="skills-container">
+                <input type="text" id="skillInput" placeholder="Enter a skill">
+                <button class="cButton" id="skillButton" onclick="addSkill()">Add Skill</button>
+            </div>
+
+            <ul id="skillsList"></ul>
+            <div class="button-container">
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+        <div class="question">
+            <p>Almost Done! What Work Experience Do You Have?</p>
+            <div id="experience-container">
+                <!-- First experience entry -->
+                <div class="experience-entry">
+                    <label>Position:</label>
+                    <input type="text" name="position" placeholder="e.g. Software Engineer">
+
+                    <label>Company:</label>
+                    <input type="text" name="company" placeholder="e.g. Microsoft">
+
+                    <label>Location:</label>
+                    <input type="text" name="location" placeholder="e.g. Seattle, WA">
+
+                    <label>Dates of Employment:</label>
+                    <input type="text" name="dates" placeholder="e.g. Jan 2020 - Dec 2023">
+
+                    <label>Description:</label>
+                    <textarea name="description" placeholder="Describe what you did in this role..."></textarea>
+
+                    <button class="cButton removeButton" onclick="removeExperience(this)">Remove</button>
+                </div>
+            </div>
+
+            <!-- Buttons -->
+            <div class="button-container">
+                <button class="cButton" onclick="addExperience()">Add Another</button>
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+        <div class="question">
+            <p>So Close! In What General Location Are You?</p>
+
+            <label>City:</label>
+            <input type="text" id="city" placeholder="e.g. New York">
+
+            <label>State:</label>
+            <input type="text" id="state" placeholder="e.g. NY">
+
+            <label>Zip Code:</label>
+            <input type="text" id="zipcode" placeholder="e.g. 10001">
+
+            <div class="button-container fixBtnPadding">
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="nextQuestion()">Next</button>
+            </div>
+        </div>
+        <div class="question" id="saveScreen">
+            <p>Optional: Last Question! Do You Want To Include Your Phone Number On Your Portfolio!</p>
+
+            <label>Phone Number:</label>
+            <input type="tel" id="phone" placeholder="e.g. (123) 456-7890">
+
+            <div class="button-container fixBtnPadding">
+                <button class="cButton" onclick="prevQuestion()">Back</button>
+                <button class="cButton" onclick="saveResponses()">Save</button>
+            </div>
+        </div>
+
+        <div id="actionOptions" style="display: none;">
+            <h2>What would you like to do next?</h2>
+            <div class="button-container portfolioPreviewButtons">
+                <button id="preview" onclick="previewPortfolio()">Preview in New Tab</button>
+                <br>
+                <button id="download" onclick="downloadHTML()">Download HTML Copy</button>
+            </div>
+        </div>
+
+        <div id="output"></div>
+    </div>
+
+    <script>
+        let currentStep = 0;
+        const questions = document.querySelectorAll(".question");
+
+        function nextQuestion() {
+            let nameInput = document.getElementById("name").value.trim();
+
+            // Validate if the name field is empty
+            if (currentStep === 0 && nameInput === "") {
+                alert("Please enter your full name before proceeding.");
+                return;
+            }
+
+            // Store name in localStorage and update the greeting dynamically
+            if (currentStep === 0) {
+                localStorage.setItem("userName", nameInput);
+                document.getElementById("greeting").innerText = `Alrighty ${nameInput}, What Email Should We Put On Your Portfolio?`;
+            }
+
+            if (currentStep === 1) { // Replace 'emailStep' with the correct index for the email input question
+                if (!validateEmail()) return;
+            }
+
+            if (currentStep === 6) { // Replace 'phoneStep' with the correct index for the phone input question
+                if (!validatePhoneNumber()) return;
+            }
+
+            questions[currentStep].classList.remove("active");
+            currentStep++;
+
+            if (currentStep < questions.length) {
+                questions[currentStep].classList.add("active");
+            }
+        }
+
+        function prevQuestion() {
+            if (currentStep > 0) {
+                questions[currentStep].classList.remove("active"); // Hide current step
+                currentStep--; // Move back one step
+                questions[currentStep].classList.add("active"); // Show previous step
+            }
+        }
+
+        // Load stored name when returning to the email question
+        document.addEventListener("DOMContentLoaded", () => {
+            let storedName = localStorage.getItem("userName");
+            if (storedName) {
+                document.getElementById("greeting").innerText = `Alrighty, ${storedName}, What Email Should We Put On Your Portfolio?`;
+            }
+        });
+
+        function validateEmail() {
+            const emailInput = document.getElementById("email").value.trim();
+
+            // Regular expression for validating email format
+            const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+            if (!emailRegex.test(emailInput)) {
+                alert("Please enter a valid email address.");
+                return false;
+            }
+
+            localStorage.setItem("userEmail", emailInput);
+            return true;
+        }
+
+
+        function addEducation() {
+            const container = document.getElementById("education-container");
+            const educationEntries = container.getElementsByClassName("education-entry");
+
+            if (educationEntries.length >= 10) {
+                alert("You can only add up to 10 education entries.");
+                return;
+            }
+
+            const newEntry = document.createElement("div");
+            newEntry.classList.add("education-entry");
+
+            newEntry.innerHTML = `
+                <label>Degree:</label>
+                <input type="text" name="degree" placeholder="e.g. Bachelor of Science">
+
+                <label>Field of Study:</label>
+                <input type="text" name="field" placeholder="e.g. Computer Science">
+
+                <label>School Name:</label>
+                <input type="text" name="school" placeholder="University Name">
+
+                <label>Year of Graduation:</label>
+                <input type="number" name="gradYear" placeholder="e.g. 2025">
+
+                <button class="removeButton" onclick="removeEducation(this)">Remove</button>
+            `;
+
+            container.appendChild(newEntry);
+        }
+
+        function removeEducation(button) {
+            button.parentElement.remove();
+        }
+
+        //Skills List
+        function addSkill() {
+            const skillInput = document.getElementById("skillInput");
+            const skillsList = document.getElementById("skillsList");
+
+            if (skillInput.value.trim() === "") {
+                alert("Please enter a valid skill.");
+                return;
+            }
+
+            // Create list item
+            const skillItem = document.createElement("li");
+            skillItem.innerText = skillInput.value;
+
+            // Create a customized Remove button
+            const removeButton = document.createElement("button");
+            removeButton.innerText = "Remove"; // Adds an "X" symbol for a cool effect
+            removeButton.classList.add("remove-btn"); // Apply CSS class
+            removeButton.onclick = function () {
+                skillItem.remove(); // Remove skill on click
+            };
+
+            skillItem.appendChild(removeButton);
+            skillsList.appendChild(skillItem);
+            skillInput.value = ""; // Clear input field
+        }
+
+        // Experience List
+        function addExperience() {
+            const container = document.getElementById("experience-container");
+            const experienceEntries = container.getElementsByClassName("experience-entry");
+
+            if (experienceEntries.length >= 10) {
+                alert("You can only add up to 10 experiences.");
+                return;
+            }
+
+            const newEntry = document.createElement("div");
+            newEntry.classList.add("experience-entry");
+
+            newEntry.innerHTML = `
+                <label>Position:</label>
+                <input type="text" name="position" placeholder="e.g. Software Engineer">
+
+                <label>Company:</label>
+                <input type="text" name="company" placeholder="e.g. Microsoft">
+
+                <label>Location:</label>
+                <input type="text" name="location" placeholder="e.g. Seattle, WA">
+
+                <label>Dates of Employment:</label>
+                <input type="text" name="dates" placeholder="e.g. Jan 2020 - Dec 2023">
+
+                <label>Description:</label>
+                <textarea name="description" placeholder="Describe what you did in this role..."></textarea>
+
+                <button class="removeButton" onclick="removeExperience(this)">Remove</button>
+            `;
+
+            container.appendChild(newEntry);
+        }
+
+        function removeExperience(button) {
+            button.parentElement.remove();
+        }
+
+        // Location
+        function saveLocation() {
+            const city = document.getElementById("city").value.trim();
+            const state = document.getElementById("state").value.trim();
+            const zipcode = document.getElementById("zipcode").value.trim();
+
+            if (city === "" || state === "" || zipcode === "") {
+                alert("Please complete all location fields.");
+                return;
+            }
+
+            localStorage.setItem("userCity", city);
+            localStorage.setItem("userState", state);
+            localStorage.setItem("userZipcode", zipcode);
+
+            alert("Location details saved!");
+        }
+        function validatePhoneNumber() {
+            const phoneInput = document.getElementById("phone").value.trim();
+
+            // Regular expression for phone number format (basic validation)
+            const phoneRegex = /^\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}$/;
+
+            if (!phoneRegex.test(phoneInput)) {
+                alert("Please enter a valid phone number (e.g. (123) 456-7890).");
+                return false;
+            }
+
+            localStorage.setItem("userPhone", phoneInput);
+            return true;
+        }
+        function savePortfolio() {
+            alert("Portfolio saved successfully!");
+            document.getElementById("actionOptions").style.display = "block"; // Show action buttons
+        }
+
+        function previewPortfolio() {
+            window.open("portfolio.html", "_blank"); // Opens portfolio page in a new tab
+        }
+
+        function downloadHTML() {
+            const portfolioContent = `
+        <html>
+        <head>
+            <title>${localStorage.getItem("userName") || "Portfolio"}</title>
+        </head>
+        <body>
+            <h1>Portfolio of ${localStorage.getItem("userName") || "Your Name"}</h1>
+            <p><strong>Email:</strong> ${localStorage.getItem("userEmail") || "your@email.com"}</p>
+            <p><strong>Phone:</strong> ${localStorage.getItem("userPhone") || "000-000-0000"}</p>
+            <p><strong>Location:</strong> ${localStorage.getItem("userCity") || "City"}, ${localStorage.getItem("userState") || "State"} ${localStorage.getItem("userZipcode") || "Zip Code"}</p>
+            <h3>Skills</h3>
+            <ul>${JSON.parse(localStorage.getItem("skillsList") || "[]").map(skill => `<li>${skill}</li>`).join("")}</ul>
+            <h3>Education</h3>
+            <ul>${JSON.parse(localStorage.getItem("educationList") || "[]").map(entry => `<li><strong>${entry.degree}</strong> in ${entry.field}, ${entry.school} (${entry.gradYear})</li>`).join("")}</ul>
+            <h3>Experience</h3>
+            <ul>${JSON.parse(localStorage.getItem("experienceList") || "[]").map(entry => `<li><strong>${entry.position}</strong> at ${entry.company}, ${entry.location} (${entry.dates})<br>${entry.description}</li>`).join("")}</ul>
+        </body>
+        </html>
+    `;
+
+            const blob = new Blob([portfolioContent], { type: "text/html" });
+            const link = document.createElement("a");
+            link.href = URL.createObjectURL(blob);
+            link.download = "portfolio.html";
+            link.click();
+        }
+        function saveResponses() {
+            alert("Portfolio saved successfully!");
+
+            // Hide the save screen (if applicable)
+            const saveScreen = document.getElementById("saveScreen"); // Adjust ID based on your actual structure
+            if (saveScreen) {
+                saveScreen.style.display = "none";
+            }
+
+            // Show the action options (preview/download)
+            document.getElementById("actionOptions").style.display = "block";
+        }
+    </script>
+
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a class="current-page" href="builder.html">Build It!</a></li>
+                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <section class="contactSection">
+            <a href="index.html" target="_self"><img class="logo" src="logo.svg"
+                    alt="Thundering Templates LLC Logo"></a>
+            <p id="contact">Email: mzdeur@thundertemplates.com</p>
+        </section>
+        <p id="copyright">© 2025 Michael Deur | All rights reserved</p>
+    </footer>
+</body>
+
+</html>

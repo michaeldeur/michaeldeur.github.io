@@ -1,0 +1,16 @@
+h2 {
+    font-size: 2rem;
+}
+
+article {
+    height: 86vh;
+}
+
+p {
+    color: whitesmoke;
+    font-size: 1.75 rem;
+    z-index: 3;
+    position: relative;
+    padding: 200px;
+    letter-spacing: .9px;
+}

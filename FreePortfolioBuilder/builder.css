@@ -1,0 +1,209 @@
+#form-container {
+    position: relative;
+    z-index: 2;
+    min-height: 86vh;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.question {
+    display: none;
+}
+
+.active {
+    display: block;
+    background-color: whitesmoke;
+    width: 60vw;
+    min-height: 50vh;
+    margin-left: 20vw;
+    margin-top: 10vh;
+    border-radius: 50px;
+    margin-bottom: 25vh;
+}
+
+.active p {
+    text-align: center;
+    padding-top: 10vh;
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+}
+
+#greeting {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.active>input,
+select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid #ccc;
+    font-size: 1.4rem;
+    width: 60%;
+    margin-left: 18%;
+    margin-right: 22%;
+    margin-top: 4vh;
+}
+
+.active>input:focus,
+.education-entry input:focus,
+#skillInput:focus,
+.experience-entry input:focus,
+.experience-entry textarea:focus,
+#city:focus,
+#state:focus,
+#zipcode:focus,
+#phone:focus {
+    border-color: #87CEEB;
+    outline: none;
+    font-size: 1.5rem;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 40px;
+}
+
+.fixBtnPadding {
+    padding-bottom: 100px !important;
+    margin-bottom: 50px;
+}
+
+.button-container:first-of-type {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-bottom: 0px;
+}
+
+.active .cButton {
+    width: auto;
+    display: flex;
+    align-content: center;
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    border-radius: 50px;
+    display: inline-flex;
+}
+
+.active>.first {
+    width: auto;
+    display: flex;
+    align-content: center;
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 50px;
+}
+
+.active .removeButton {
+    color: rgb(214, 0, 0);
+    border-color: rgb(214, 0, 0);
+    margin-left: 18%;
+    margin-bottom: 50px;
+}
+
+.education-entry label,
+.experience-entry label,
+label {
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+    margin-top: 20px;
+    margin-bottom: -20px;
+    margin-left: 18%;
+}
+
+.education-entry input,
+#skillInput,
+.experience-entry input,
+.experience-entry textarea,
+#city,
+#state,
+#zipcode,
+#phone {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid #ccc;
+    font-size: 1.4rem;
+    width: 60%;
+    margin-left: 18%;
+    margin-right: 22%;
+    margin-bottom: 4vh;
+}
+
+.remove-btn {
+    color: rgb(214, 0, 0);
+    border-color: rgb(214, 0, 0);
+    margin-left: 80px;
+}
+
+.remove-btn:hover,
+.removeButton:hover {
+    transition: 1s;
+    background-color: darkred;
+}
+
+#skillsList {
+    font-size: 1.5rem;
+}
+
+#skillButton {
+    width: auto;
+    display: flex;
+    align-content: center;
+    padding: 10px 25px;
+    font-size: 1.2rem;
+    margin: 0 auto;
+    margin-top: -10px;
+    border-radius: 50px;
+}
+
+#preview {
+    border: 1px solid #87CEEB;
+    margin: 0 auto;
+    margin-top: 250px;
+    text-decoration: none;
+    color: #333;
+    background-color: #87CEEB;
+    padding: 20px 60px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: 'Arial', sans-serif;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#download {
+    border: 1px solid #87CEEB;
+    margin: 0 auto;
+    margin-top: 250px;
+    text-decoration: none;
+    color: #333;
+    background-color: #87CEEB;
+    padding: 20px 60px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: 'Arial', sans-serif;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+#preview:hover,
+#download:hover {
+    border: 1px solid #ccc;
+}

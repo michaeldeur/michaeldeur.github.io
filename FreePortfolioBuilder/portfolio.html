@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="pageTitle">Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .header {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .nav-links {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .nav-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: blue;
+            font-weight: bold;
+        }
+
+        .section {
+            margin-top: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #ccc;
+        }
+
+        .skills-list,
+        .education-list,
+        .experience-list {
+            list-style: none;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header">Portfolio of <span id="userName"></span></div>
+
+        <div class="nav-links" id="navLinks"></div>
+
+        <div class="section">
+            <h3>Contact Information</h3>
+            <p><strong>Email:</strong> <span id="userEmail"></span></p>
+            <p><strong>Phone:</strong> <span id="userPhone"></span></p>
+            <p><strong>Location:</strong> <span id="userCity"></span>, <span id="userState"></span> <span
+                    id="userZipcode"></span></p>
+        </div>
+
+        <div class="section" id="educationSection">
+            <h3>Education</h3>
+            <ul id="educationList"></ul>
+        </div>
+
+        <div class="section" id="skillsSection">
+            <h3>Skills</h3>
+            <ul id="skillsList"></ul>
+        </div>
+
+        <div class="section" id="experienceSection">
+            <h3>Experience</h3>
+            <ul id="experienceList"></ul>
+        </div>
+    </div>
+
+    <script>
+        // Load user data from localStorage
+        const userName = localStorage.getItem("userName") || "Your Name";
+        document.getElementById("userName").innerText = userName;
+        document.getElementById("pageTitle").innerText = `${userName}'s Portfolio`;
+
+        document.getElementById("userEmail").innerText = localStorage.getItem("userEmail") || "your@email.com";
+        document.getElementById("userPhone").innerText = localStorage.getItem("userPhone") || "000-000-0000";
+        document.getElementById("userCity").innerText = localStorage.getItem("userCity") || "City";
+        document.getElementById("userState").innerText = localStorage.getItem("userState") || "State";
+        document.getElementById("userZipcode").innerText = localStorage.getItem("userZipcode") || "Zip Code";
+
+        const navLinks = document.getElementById("navLinks");
+
+        // Load and display skills
+        const skills = localStorage.getItem("skillsList") ? JSON.parse(localStorage.getItem("skillsList")) : [];
+        if (skills.length > 0) {
+            skills.forEach(skill => {
+                const li = document.createElement("li");
+                li.innerText = skill;
+                document.getElementById("skillsList").appendChild(li);
+            });
+            navLinks.innerHTML += `<a href="#skillsSection">Skills</a>`;
+        } else {
+            document.getElementById("skillsSection").style.display = "none";
+        }
+
+        // Load and display education
+        const education = localStorage.getItem("educationList") ? JSON.parse(localStorage.getItem("educationList")) : [];
+        if (education.length > 0) {
+            education.forEach(entry => {
+                const li = document.createElement("li");
+                li.innerHTML = `<strong>${entry.degree}</strong> in ${entry.field}, ${entry.school} (${entry.gradYear})`;
+                document.getElementById("educationList").appendChild(li);
+            });
+            navLinks.innerHTML += `<a href="#educationSection">Education</a>`;
+        } else {
+            document.getElementById("educationSection").style.display = "none";
+        }
+
+        // Load and display experience
+        const experience = localStorage.getItem("experienceList") ? JSON.parse(localStorage.getItem("experienceList")) : [];
+        if (experience.length > 0) {
+            experience.forEach(entry => {
+                const li = document.createElement("li");
+                li.innerHTML = `<strong>${entry.position}</strong> at ${entry.company}, ${entry.location} (${entry.dates})<br>${entry.description}`;
+                document.getElementById("experienceList").appendChild(li);
+            });
+            navLinks.innerHTML += `<a href="#experienceSection">Experience</a>`;
+        } else {
+            document.getElementById("experienceSection").style.display = "none";
+        }
+    </script>
+
+</body>
+
+</html>

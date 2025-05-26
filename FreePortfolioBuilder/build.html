@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Builder</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            width: 100%;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 90%;
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+        #form-container {
+            width: 45%;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        #portfolio-preview {
+            width: 45%;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #0073e6;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .hidden {
+            display: none;
+        }
+        footer {
+            margin-top: 20px;
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Portfolio Builder</h1>
+        <p>Step-by-step customization for your perfect portfolio</p>
+    </header>
+
+    <div class="container">
+        <!-- Form for User Input -->
+        <div id="form-container">
+            <h2>Step 1: About You</h2>
+            <label for="name">Your Name:</label>
+            <input type="text" id="name" placeholder="Enter your name" oninput="updatePortfolio()">
+            
+            <label for="title">Title (e.g., Web Developer):</label>
+            <input type="text" id="title" placeholder="Enter your title" oninput="updatePortfolio()">
+            
+            <label for="bio">About You:</label>
+            <textarea id="bio" placeholder="Write a short bio..." oninput="updatePortfolio()"></textarea>
+            
+            <button onclick="nextStep(2)">Next: Skills →</button>
+        </div>
+
+        <!-- Portfolio Preview -->
+        <div id="portfolio-preview">
+            <header>
+                <h1 id="preview-name">Your Name</h1>
+                <p id="preview-title">Professional Title</p>
+            </header>
+            <section>
+                <h2>About Me</h2>
+                <p id="preview-bio">Your brief introduction goes here.</p>
+            </section>
+        </div>
+    </div>
+
+    <div class="container hidden" id="step-2">
+        <div id="form-container">
+            <h2>Step 2: Skills</h2>
+            <label for="skills">Select Your Key Skill:</label>
+            <select id="skills" onchange="updatePortfolio()">
+                <option value="">Choose a skill</option>
+                <option value="HTML/CSS">HTML/CSS</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="React.js">React.js</option>
+                <option value="Python">Python</option>
+            </select>
+            <button onclick="nextStep(3)">Next: Projects →</button>
+        </div>
+
+        <div id="portfolio-preview">
+            <section>
+                <h2>Skills</h2>
+                <p id="preview-skills">Your selected skill will appear here.</p>
+            </section>
+        </div>
+    </div>
+
+    <div class="container hidden" id="step-3">
+        <div id="form-container">
+            <h2>Step 3: Projects</h2>
+            <label for="project">Project Name:</label>
+            <input type="text" id="project" placeholder="Enter a project name" oninput="updatePortfolio()">
+            <button onclick="nextStep(4)">Next: Contact →</button>
+        </div>
+
+        <div id="portfolio-preview">
+            <section>
+                <h2>Projects</h2>
+                <p id="preview-project">Your project details will appear here.</p>
+            </section>
+        </div>
+    </div>
+
+    <div class="container hidden" id="step-4">
+        <div id="form-container">
+            <h2>Step 4: Contact Info</h2>
+            <label for="contact">Contact Email:</label>
+            <input type="text" id="contact" placeholder="Enter your email" oninput="updatePortfolio()">
+            <button onclick="alert('Portfolio Complete!')">Finish!</button>
+        </div>
+
+        <div id="portfolio-preview">
+            <section>
+                <h2>Contact</h2>
+                <p id="preview-contact">Your email will appear here.</p>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Portfolio Builder. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        function updatePortfolio() {
+            document.getElementById('preview-name').innerText = document.getElementById('name').value || "Your Name";
+            document.getElementById('preview-title').innerText = document.getElementById('title').value || "Professional Title";
+            document.getElementById('preview-bio').innerText = document.getElementById('bio').value || "Your brief introduction goes here.";
+            document.getElementById('preview-contact').innerText = "Email: " + (document.getElementById('contact').value || "your@email.com");
+            document.getElementById('preview-skills').innerText = document.getElementById('skills').value || "Your selected skill will appear here.";
+            document.getElementById('preview-project').innerText = document.getElementById('project').value || "Your project details will appear here.";
+        }
+
+        function nextStep(step) {
+            document.querySelectorAll('.container').forEach(div => div.classList.add('hidden'));
+            document.getElementById('step-' + step).classList.remove('hidden');
+        }
+    </script>
+
+</body>
+</html>
