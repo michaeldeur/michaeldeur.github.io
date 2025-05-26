@@ -1,0 +1,311 @@
+border/* styles.css */
+html {
+    overflow-y: scroll;
+    /* Forces scrollbar rendering instantly */
+}
+
+body,
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: black;
+}
+
+#background-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+
+    z-index: 0;
+    /* Keeps video behind the content */
+}
+
+/* Header Styling */
+header {
+    display: grid;
+    grid-template-columns: 1fr 4fr 3fr;
+    height: 25vh;
+    z-index: 2;
+    position: relative;
+}
+
+.logo {
+    grid-column: 1;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.0);
+}
+
+header>h1 {
+    grid-column: 2;
+    text-align: center;
+    border-radius: 20px 20px 0 0;
+    font-family: 'Arial', sans-serif;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 2.5em;
+    z-index: 2;
+    position: relative;
+    text-shadow: 2px 2px 4px #87CEEB;
+}
+
+nav {
+    grid-column: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -80px;
+}
+
+.current-page {
+    color: rgb(191, 191, 191);
+}
+
+nav ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+    z-index: 2;
+    position: relative;
+    list-style-type: none;
+}
+
+nav ul li a {
+
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    color: whitesmoke;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: color 0.3s ease;
+    position: relative;
+    padding: 0px 10px;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    color: #87CEEB;
+    /* Changes color on hover */
+    text-shadow: 1px 1px 2px whitesmoke;
+    /* Adds a subtle shadow on hover */
+}
+
+h4 {
+    /* padding-left: 20px; */
+    font-family: 'Arial', sans-serif;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.5em;
+    z-index: 2;
+    position: relative;
+    text-shadow: 1px 1px 2px #87CEEB;
+}
+
+h2 {
+    text-align: center;
+}
+
+h2,
+h3 {
+    font-family: 'Arial', sans-serif;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    z-index: 3;
+    position: relative;
+    text-shadow: 1px 1px 2px #87CEEB;
+}
+
+h3 {
+    padding: 0 50px;
+    height: 4vh;
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    z-index: 2;
+    position: relative;
+}
+
+.start>a {
+    text-decoration: none;
+    color: #333;
+    background-color: #87CEEB;
+    padding: 20px 60px;
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-family: 'Arial', sans-serif;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+    /* box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); */
+}
+
+.start>a:hover {
+    letter-spacing: 1px;
+}
+
+/* Gallery Container */
+.gallery-container {
+    height: 50vh;
+    bottom: 0px;
+    width: 80%;
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 20px;
+    /* margin-top: 250px; */
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.0);
+    box-shadow: inset 4px 4px 4px 4px rgba(0, 0, 0, 0.0);
+}
+
+/* Gallery Styling */
+.gallery {
+    display: flex;
+    will-change: transform;
+}
+
+/* Slide Styling */
+.slide {
+    width: 20%;
+    flex-shrink: 0;
+    padding: 10px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+}
+
+/* Enlarges the image on hover */
+.slide img {
+    transition: transform 0.3s ease-in-out;
+    /* Smooth transition for scaling */
+    box-shadow: 0px 4px 15px rgba(255, 255, 255, 0.3);
+}
+
+.slide img:hover {
+    transform: scale(1.2);
+    /* Makes the image 10% larger */
+    box-shadow: 0px 8px 20px rgba(255, 255, 255, 0.5);
+}
+
+/* Scrollbar Base */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+/* Scrollbar Track */
+::-webkit-scrollbar-track {
+    background: black;
+}
+
+/* Scrollbar Thumb (Lightning Effect) */
+::-webkit-scrollbar-thumb {
+    background: whitesmoke;
+    border-radius: 15px;
+}
+
+/* Scrollbar Corner */
+::-webkit-scrollbar-corner {
+    background: black;
+    /* Matches the track */
+}
+
+/* Footer Styling */
+footer {
+    width: 100vw;
+    height: 200px;
+    color: whitesmoke;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+    z-index: 2;
+    position: relative;
+    background-color: black;
+}
+
+footer>nav {
+    width: 100vw;
+    height: 50px;
+}
+
+.contactSection {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 100px;
+    position: relative;
+    z-index: 2;
+}
+
+/* .contactSection > .logo {
+    grid-column: 1;
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+    display: flex;
+    margin: auto;
+}
+
+.contactSection > #contact {
+    grid-column: 2;
+    color: whitesmoke;
+    z-index: 3;
+    position: relative;
+    text-shadow: 1px 1px 2px #87CEEB;
+    width: 100vw;
+    height: 50px;
+    text-align: center;
+    margin-top: 0px
+} */
+
+.contactSection> a, .contactSection > a > .logo {
+    grid-column: 1;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    
+}
+
+.contactSection>#contact {
+    grid-column: 2;
+    margin: 0px;
+    color: whitesmoke;
+    z-index: 2;
+    position: relative;
+    text-shadow: 1px 1px 2px #87CEEB;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+#contact:hover {
+    color: #87CEEB;
+    text-shadow: 1px 1px 2px whitesmoke;
+}
+
+#copyright {
+    padding: 0px;
+    margin: 0px;
+    color: whitesmoke;
+    z-index: 2;
+    position: relative;
+    text-shadow: 1px 1px 2px #87CEEB;
+    text-align: center;
+    width: 100vw;
+    height: 50px;
+    line-height: 50px;
+}
